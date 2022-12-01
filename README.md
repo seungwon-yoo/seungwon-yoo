@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seungwon-yoo
 - 👀 I’m interested in App development.
-- 🌱 I’m currently learning Algorithm.
+- 🌱 I’m currently learning in Boostcamp.
 - 📫 How to reach me : qwer15417@gmail.com.
 
 <!---
