@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seungwon-yoo
-- 👀 I’m interested in Clean Architecture.
+- 👀 I’m interested in many things.
 - 📫 How to reach me : qwer15417@gmail.com.
 
 <!---
