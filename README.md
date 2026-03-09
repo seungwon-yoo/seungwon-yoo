@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @seungwon-yoo
-- 👀 I’m interested in many things.
-- 📫 How to reach me : qwer15417@gmail.com.
+# 👋 Hi, I'm Seungwon Yoo (@seungwon-yoo)
 
-<!---
-seungwon-yoo/seungwon-yoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Backend Developer** focusing on scalable architecture, data-driven problem solving, and performance optimization.
+
+### 🚀 Tech Stack
+* **Language & Framework:** Python (Flask, FastAPI)
+* **Data & Performance:** Celery, Redis, MySQL Query Optimization
+* **Infrastructure:** AWS, Docker/LXD, Elasticsearch
+* **Focus:** Data integrity, Async processing, and API Architecture
+
+### 🛠 What I do
+* Building robust backend systems and optimizing database performance.
+* Designing event-driven data pipelines for high-traffic environments.
+* Transforming complex business requirements into efficient, maintainable code.
+
+### 📫 Reach me
+* Email: [qwer15417@gmail.com](mailto:qwer15417@gmail.com)
